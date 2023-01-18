@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there and welcome to my page! 👋
+### 🔭 I’m currently working on building my portfolio of projects.
 
 <!--
 **snuel/snuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
